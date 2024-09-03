@@ -9,4 +9,3 @@ elif gols1 == gols2:
     print("Nao houve vencedor!!!")
 else:
     print(f"O time {nome2} fez {gols2} ele e o vencedor!!")
-
